@@ -32,8 +32,7 @@ Feel free to email me at **sjoholm.sanni@gmail.com**.
 
 ## 📂 Featured Projects
 Check out some of my recent work:
-COMING SOON :)
-
+https://github.com/sannisjoholm/HelpfulScripts
 ---
 
 ✨ Let's create something amazing together! 😊
