@@ -32,9 +32,7 @@ Feel free to email me at **sjoholm.sanni@gmail.com**.
 
 ## 📂 Featured Projects
 Check out some of my recent work:
-- 🎮 **[Game Project Name](#):** A brief description of the project and what I contributed.
-- 🌐 **[XR Prototype](#):** Details about an AR/VR experience I'm building.  
-- 🎵 **[Music Tool](#):** An experimental project combining technology and music.  
+COMING SOON :)
 
 ---
 
