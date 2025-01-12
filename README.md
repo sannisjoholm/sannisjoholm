@@ -15,7 +15,7 @@
 ## 💻 Technologies & Tools I Use
 - **Programming Languages:** C#, Java, JavaScript, Python  
 - **Game Engines:** Unity  
-- **Other Tools:** Git, Blender, Adobe Creative Suite, and more!  
+- **Other Tools:** Git, Blender and more!  
 
 ---
 
